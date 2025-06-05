@@ -5,3 +5,4 @@
 <script setup>
 import HelloTest from './components/HelloTest.vue'
 </script>
+<style></style>

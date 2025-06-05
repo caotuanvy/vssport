@@ -8,7 +8,7 @@
 
 <script setup>
 import { ref } from 'vue'
-import api from '@/axios'
+import api from '@/api/axios'
 
 const email = ref('')
 const password = ref('')
