@@ -9,5 +9,5 @@ Route::get('/user', function (Request $request) {
 
 
 Route::get('/hello', function () {
-    return response()->json(['message' => 'Hello from Laravel API!']);
+    return response()->json(['message' => 'Hello from MMB API!']);
 });
